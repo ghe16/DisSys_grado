@@ -20,11 +20,11 @@ To install the JDK (Java Development Kit) and JRE (Java Runtime Environment) on 
 Go to the Oracle Java Downloads page (https://www.oracle.com/java/technologies/downloads/).
 Select the appropriate version of JDK and JRE for your Windows system (e.g., JDK 17, JDK 21).
 #### 1.1.2. Install the JDK
-Run the downloaded JDK installer (** jdk-xx_windows-x64_bin.exe **).
+Run the downloaded JDK installer ( **jdk-xx_windows-x64_bin.exe** ).
 Follow the on-screen instructions to complete the installation.
 During installation, you can choose the installation path or use the default path.
 #### 1.1.3. Install the JRE
-Run the downloaded JRE installer (** jre-xx_windows-x64_bin.exe **).
+Run the downloaded JRE installer (**jre-xx_windows-x64_bin.exe**).
 Follow the on-screen instructions to complete the installation.
 During installation, you can choose the installation path or use the default path.
 #### 1.1.4. Set Environment Variables
@@ -32,7 +32,7 @@ Open the Start Menu and search for “Environment Variables”.
 Click on Edit the system environment variables.
 In the System Properties window, click on Environment Variables.
 Under System variables, find the Path variable and click Edit.
-Add the path to the JDK bin directory (e.g., ** C:\Program Files\Java\jdk-xx\bin **).
+Add the path to the JDK bin directory (e.g., **C:\Program Files\Java\jdk-xx\bin**).
 Click OK to save the changes.
 #### 1.1.5. Verify the Installation
 Open a Command Prompt.
