@@ -1,4 +1,2 @@
-SD_GRADO/.vscode/
 bankaccount/src/main/java/bankaccount/AcmeBankAccountsSol.java
-bankaccount\src\main\java\bankaccount\AcmeBankAccountsSol.java
-bankaccount\target\classes\bankaccount\AcmeBankAccountsSol.class
+bankaccount/target/classes/bankaccount/AcmeBankAccountsSol.class
