@@ -49,6 +49,6 @@ public class AcmeBankAccounts {
     cJuan.transfer(cPepe, 1000); 
     cJuan.printAccountData(); 
     cPepe.printAccountData(); 
-    AcmeBankAccounts.printBankData();  
+    //AcmeBankAccounts.printBankData();  
     } 
 } 
