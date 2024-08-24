@@ -2,3 +2,5 @@ bankaccount/src/main/java/bankaccount/AcmeBankAccountsSol.java
 bankaccount/target/classes/bankaccount/AcmeBankAccountsSol.class
 javatherads/src/main/java/com/example/SecondTimerSol.java
 javatherads/target/classes/com/example/SecondTimerSol.class
+javatherads/src/main/java/com/example/ThreadCounter.java
+javatherads/target/classes/com/example/ThreadCounter.class
