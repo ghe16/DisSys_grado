@@ -10,3 +10,15 @@
 4-sockets/socket4/target/classes/sockets/clienteEchoTCPSol.class
 4-sockets/socket4/src/main/java/sockets/servidotEchoMonotrheadTCPSol.java
 4-sockets/socket4/target/classes/sockets/servidotEchoMonotrheadTCPSol.class
+4-sockets/socket4/src/main/java/sockets/echoServiceSol.java
+4-sockets/socket4/src/main/java/sockets/servidorEchoMultiThreadSol.java
+4-sockets/socket4/target/classes/sockets/echoServiceSol.class
+4-sockets/socket4/target/classes/sockets/servidorEchoMultiThreadSol.class
+4-sockets/socket4/src/main/java/sockets/Screen.java
+4-sockets/socket4/src/main/java/sockets/chatClientSol.java
+4-sockets/socket4/src/main/java/sockets/chatServerSol.java
+4-sockets/socket4/src/main/java/sockets/Keyboard.java
+4-sockets/socket4/target/classes/sockets/Keyboard.class
+4-sockets/socket4/target/classes/sockets/Screen.class
+4-sockets/socket4/target/classes/sockets/chatClientSol.class
+4-sockets/socket4/target/classes/sockets/chatServerSol.class
