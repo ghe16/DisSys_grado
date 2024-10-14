@@ -6,9 +6,8 @@
 1-javatherads/target/classes/com/example/ThreadCounter.class
 2-reproduccion/src/main/java/sounds/reproduccionVyASol.java
 2-reproduccion/target/classes/sounds/reproduccionVyASol.class
-4-sockets/socket4/src/main/java/sockets/clienteEchoTCPSol.java
+
 4-sockets/socket4/target/classes/sockets/clienteEchoTCPSol.class
-4-sockets/socket4/src/main/java/sockets/servidotEchoMonotrheadTCPSol.java
 4-sockets/socket4/target/classes/sockets/servidotEchoMonotrheadTCPSol.class
 4-sockets/socket4/src/main/java/sockets/echoServiceSol.java
 4-sockets/socket4/src/main/java/sockets/servidorEchoMultiThreadSol.java

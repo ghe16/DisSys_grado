@@ -47,9 +47,12 @@ public class clienteEchoTCP
             // 6. write the line to the serverOutputStream
 
         } catch (IOException e)  {
-            System.err.println(e.getMessage());
-            System.exit(1);
-        }
+            System.out.println(e.getMessage());
+            
+        }  finally {
+
+
     }
         
+}
 }
