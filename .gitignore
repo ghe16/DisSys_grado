@@ -7,11 +7,7 @@
 2-reproduccion/src/main/java/sounds/reproduccionVyASol.java
 2-reproduccion/target/classes/sounds/reproduccionVyASol.class
 
-4-sockets/socket4/target/classes/sockets/clienteEchoTCPSol.class
 4-sockets/socket4/target/classes/sockets/servidotEchoMonotrheadTCPSol.class
-4-sockets/socket4/src/main/java/sockets/echoServiceSol.java
-4-sockets/socket4/src/main/java/sockets/servidorEchoMultiThreadSol.java
-4-sockets/socket4/target/classes/sockets/echoServiceSol.class
 4-sockets/socket4/target/classes/sockets/servidorEchoMultiThreadSol.class
 4-sockets/socket4/src/main/java/sockets/Screen.java
 4-sockets/socket4/src/main/java/sockets/chatClientSol.java
