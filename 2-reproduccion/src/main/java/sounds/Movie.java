@@ -54,7 +54,7 @@ public class Movie extends Component {
 
     public static void main(String[] args) {
         // 1. Create a movie with images...  
-        Movie photoSeq = new Movie("reproduccion\\\\src\\\\main\\\\resources\\\\fotograms\\\\horse", 5);
+        Movie photoSeq = new Movie("2-reproduccion\\\\src\\\\main\\\\resources\\\\fotograms\\\\horse", 5);
         //Movie photoSeq = new Movie ("path");
 
         // 2. create a frame

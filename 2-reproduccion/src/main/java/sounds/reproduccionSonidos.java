@@ -15,9 +15,9 @@ public class reproduccionSonidos {
             Clip gallop =  AudioSystem.getClip();
 
             // It is loaded from the wavfile / se carga del archivo wav   
-            bark.open(AudioSystem.getAudioInputStream(new File("reproduccion\\\\src\\\\main\\\\resources\\\\sounds\\\\ladrido.wav")));
-            meow.open(AudioSystem.getAudioInputStream(new File("reproduccion\\src\\main\\resources\\sounds\\maullido.wav")));
-            gallop.open(AudioSystem.getAudioInputStream(new File("reproduccion\\\\src\\\\main\\\\resources\\\\sounds\\\\galope.wav")));
+            bark.open(AudioSystem.getAudioInputStream(new File("2-reproduccion\\\\src\\\\main\\\\resources\\\\sounds\\\\ladrido.wav")));
+            meow.open(AudioSystem.getAudioInputStream(new File("2-reproduccion\\src\\main\\resources\\sounds\\maullido.wav")));
+            gallop.open(AudioSystem.getAudioInputStream(new File("2-reproduccion\\\\src\\\\main\\\\resources\\\\sounds\\\\galope.wav")));
 
 
             // we start to reproduce (play) the file   // ccomenzamosl al reproducci'on

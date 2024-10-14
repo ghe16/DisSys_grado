@@ -1,7 +1,5 @@
 package bankaccount;
 
-
-
 public class AcmeBankAccounts { 
 
     int balance = 0;  
