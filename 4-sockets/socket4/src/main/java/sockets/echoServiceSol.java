@@ -21,7 +21,6 @@ public class echoServiceSol implements Runnable {
         String inputLine = null;
         try {
             // 2. create an input line stream for reading linees from the socket byte input stream
-
             BufferedReader userInputLine = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
             // 3 create an output line stream for writing lines to the socket byte output stream immediately
