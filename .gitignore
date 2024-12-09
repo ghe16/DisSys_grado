@@ -22,3 +22,13 @@
 4-sockets/socket4/target/classes/sockets/Screen.class
 4-sockets/socket4/target/classes/sockets/chatClientSol.class
 4-sockets/socket4/target/classes/sockets/chatServerSol.class
+5-ORB/3-multiagenda/src/main/java/com/example/MiniORB.java
+5-ORB/3-multiagenda/src/main/java/com/example/Time.java
+5-ORB/3-multiagenda/src/main/java/com/example/TimeSkeleton.java
+5-ORB/3-multiagenda/target/classes/com/example/MiniORB.class
+5-ORB/3-multiagenda/target/classes/com/example/Time.class
+5-ORB/3-multiagenda/target/classes/com/example/TimeSkeleton.class
+5-ORB/2-RMInObjects/rminobjects/src/main/java/com/example/client/Agenda.java
+5-ORB/2-RMInObjects/rminobjects/src/main/java/com/example/client/AgendaClient.java
+5-ORB/2-RMInObjects/rminobjects/src/main/java/com/example/server/Server.java
+5-ORB/2-RMInObjects/rminobjects/src/main/java/com/example/server/IRepository.java
